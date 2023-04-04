@@ -1,0 +1,87 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(253, 238, 136);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Dancing Script', cursive;
+    background-image: url(apicultor.jpg);
+    background-size: auto;
+}
+
+h1 {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 400px;
+    height: 80px;
+    border-radius: 20px;
+    background-color: rgb(255, 203, 59);
+}
+h2 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.abelhabanner {
+    display: block;
+    margin-top: 20px;
+    margin: 0 auto;
+}
+
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 203, 59);
+    color: rgb(255, 203, 59);
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
+
+.botao{
+    background-color: rgb(255, 190, 11);
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 60px;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+
+h4{
+    display: flex;
+    background-color: rgb(255, 203, 59) ;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer{
+    bottom: 0px;
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.p{
+    padding-right: 10px;
+    padding-left: 10px;
+}
